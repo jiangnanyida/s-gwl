@@ -6,7 +6,7 @@ database = {'costs': a list of adjacency matrices of different graphs,
             'idx2nodes': a list of dictionaries mapping index to node name,
             'correspondence': None or a list of correspondence set}
 """
-
+#sss
 import methods.EvaluationMeasure as Eval
 import methods.GromovWassersteinGraphToolkit as GwGt
 import pickle
